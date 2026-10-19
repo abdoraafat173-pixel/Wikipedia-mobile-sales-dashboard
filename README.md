@@ -1,3 +1,4 @@
+![Dashboard Preview](powerb-dashboard-clean.png)
 # 📱 Wikipedia Mobile Sales Dashboard
 
 > **"Transforming Data into Actionable Insights"**
